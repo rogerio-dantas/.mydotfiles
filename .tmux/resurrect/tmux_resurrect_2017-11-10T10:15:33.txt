@@ -1,0 +1,7 @@
+pane	0	0	:~	1	:*	0	:/home/webdev	0	zsh	:
+pane	0	0	:~	1	:*	1	:/home/webdev	0	zsh	:
+pane	0	0	:~	1	:*	2	:/home/webdev	0	zsh	:
+pane	0	0	:~	1	:*	3	:/home/webdev	0	zsh	:
+pane	0	0	:~	1	:*	4	:/home/webdev	1	zsh	:
+window	0	0	1	:*	2587,79x22,0,0[79x11,0,0,0,79x10,0,12{39x10,0,12,3,39x10,40,12[39x5,40,12,4,39x4,40,18{19x4,40,18,5,19x4,60,18,6}]}]
+state	0	
