@@ -10,6 +10,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'klen/python-mode'
 Plugin 'rafi/awesome-vim-colorschemes'
 Plugin 'scrooloose/nerdtree'
+Plugin 'mattn/emmet-vim'
 
 " All of your Plugins must be added before the following line
  call vundle#end()            " required
